@@ -1,8 +1,8 @@
 {
-  "author": "kazuhide maruyama",
-  "name": "grunt-typescript",
-  "description": "compile typescript to javascript, creating a new version to run on the latest git for a legacy project.",
-  "version": "0.8.0",
+  "author": "Mikie O'Sullivan",
+  "name": "grunt-txtypescript",
+  "description": "compile typescript to javascript, original author kazuhide maruyama, creating a new version to run on the latest git for a legacy project.",
+  "version": "0.8.2",
   "homepage": "https://github.com/Mikieos/grunt-tx-ts",
   "repository": {
     "type": "git",
@@ -38,8 +38,7 @@
     "grunt-contrib-nodeunit": "~0.4.1",
     "grunt-contrib-clean": "~0.6.0"
   },
-  "optionalDependencies": {
-  },
+  "optionalDependencies": {},
   "keywords": [
     "gruntplugin",
     "typescript"

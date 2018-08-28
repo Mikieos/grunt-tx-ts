@@ -1,8 +1,9 @@
-grunt-typescript
+grunt-tx-ts
 ================
-[![Build Status](https://travis-ci.org/k-maru/grunt-typescript.png?branch=master)](https://travis-ci.org/k-maru/grunt-typescript) [![NPM version](https://badge.fury.io/js/grunt-typescript.png)](http://badge.fury.io/js/grunt-typescript)
 
-[![NPM](https://nodei.co/npm/grunt-typescript.png?downloads=true)](https://nodei.co/npm/grunt-typescript/)
+Modified from grunt-typescript to support grunt v1.0.x written by kazuhide maruyama
+
+[![NPM](https://nodei.co/npm/grunt-tx-ts.png?downloads=true)](https://nodei.co/npm/grunt-tx-ts/)
 
 Compile TypeScript in Grunt
 
@@ -15,22 +16,22 @@ BasePath option has been deprecated. Method for determining an output directory 
 ``
 
 ## Documentation
-You'll need to install `grunt-typescript` first:
+You'll need to install `grunt-tx-ts` first:
 
 ```
-npm install grunt-typescript --save-dev
+npm install grunt-tx-ts --save-dev
 ```
 
 or add the following line to devDependencies in your package.json
 
 ```
-"grunt-typescript": "",
+"grunt-tx-ts": "",
 ```
 
 Then modify your `Gruntfile.js` file by adding the following line:
 
 ```js
-grunt.loadNpmTasks('grunt-typescript');
+grunt.loadNpmTasks('grunt-tx-ts');
 ```
 
 Then add some configuration for the plugin like so:
