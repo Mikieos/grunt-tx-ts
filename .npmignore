@@ -1,0 +1,14 @@
+node_modules
+npm-debug.log
+test
+typings
+/.idea
+src
+/.gitignore
+/egen.sh
+/tsd.json
+/.travis.yml
+/Gruntfile.js
+/.npmignore
+/lib
+/.vscode
