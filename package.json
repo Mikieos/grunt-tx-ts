@@ -2,7 +2,7 @@
   "author": "Mikie O'Sullivan",
   "name": "grunt-txtypescript",
   "description": "compile typescript to javascript, original author kazuhide maruyama, creating a new version to run on the latest git for a legacy project.",
-  "version": "0.8.2",
+  "version": "0.8.4",
   "homepage": "https://github.com/Mikieos/grunt-tx-ts",
   "repository": {
     "type": "git",
